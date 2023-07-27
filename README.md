@@ -1,7 +1,13 @@
 # ai_painting
 极客时间的AI绘画课程代码，用于读者课程学习。
 
-## 环境创建
+## 推荐使用Colab
+https://colab.research.google.com/ 
+
+
+
+
+## 本地环境创建
 推荐使用[Miniconda](https://docs.conda.io/en/latest/miniconda.html)管理你的隔离环境。
 
 ```bash 
@@ -13,6 +19,8 @@ conda activate aigc # 激活你的隔离环境
 ```bash
 pip install -r requirements.txt
 ```
+
+
 
 
 
