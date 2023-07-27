@@ -3,7 +3,7 @@
 
 ## 推荐使用Colab
 https://colab.research.google.com/ 
-
+![image](https://github.com/NightWalker888/ai_painting_journey/blob/main/images/colab.png)
 
 
 
